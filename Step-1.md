@@ -9,3 +9,7 @@ eksctl create cluster --name demo-cluster --region us-east-1 --fargate
 eksctl delete cluster --name demo-cluster --region us-east-1
 </pre>
 
+#### Use this command to get the details of the cluster that is created.
+<pre>
+aws eks update-kubeconfig --name kubernetes-project --region us-east-1 
+</pre>
