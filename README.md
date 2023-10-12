@@ -1,5 +1,15 @@
 # Kubernetes-Project
 
+### The app is running on
+<pre>
+  http://k8s-game2048-ingress2-c229b36659-742404546.us-east-1.elb.amazonaws.com/
+</pre>
+
+### User Interface
+
+<img width="1149" alt="Screen Shot 2023-10-12 at 3 22 19 AM" src="https://github.com/Sumanayana-Konda/Kubernetes-Project/assets/114708712/c72cf427-299c-4172-80ac-27e4f0a59195">
+
+
 ## Prerequisites
 
 ### Install kubectl
