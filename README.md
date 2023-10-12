@@ -9,6 +9,8 @@
 
 <img width="1149" alt="Screen Shot 2023-10-12 at 3 22 19 AM" src="https://github.com/Sumanayana-Konda/Kubernetes-Project/assets/114708712/c72cf427-299c-4172-80ac-27e4f0a59195">
 
+### Architecture
+![microservices_application_on_amazon_eks](https://github.com/Sumanayana-Konda/Kubernetes-Project/assets/114708712/8ef8628f-d5d9-4380-8371-5d89c350651b)
 
 ## Prerequisites
 
