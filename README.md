@@ -1,4 +1,4 @@
-# Kubernetes-Project
+# Microservices Application on Amazon EKS
 
 ### The app is running on
 <pre>
